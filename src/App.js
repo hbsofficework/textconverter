@@ -1,9 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
+import TextConverter from './TextConverter';
 
 function App() {
   return (
-    <h1>Text Converter</h1>
+    <TextConverter />
   );
 }
 
